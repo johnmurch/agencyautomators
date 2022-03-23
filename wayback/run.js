@@ -1,6 +1,8 @@
 const axios = require("axios");
 const fs = require("fs");
 
+// Must read - https://support.archive-it.org/hc/en-us/articles/115001790023-Access-Archive-It-s-Wayback-index-with-the-CDX-C-API
+
 async function run(){
   try{
     let domain = "asos.com";
