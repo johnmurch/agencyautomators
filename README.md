@@ -4,7 +4,7 @@ Code Snippets used during interview
 ## Topics to Discuss
 ### Wayback
 * Finding URLs Fast
-* Understanding Site of Site
+* Understanding Size of Site
 * Segmentation
 
 ### Building Tools
